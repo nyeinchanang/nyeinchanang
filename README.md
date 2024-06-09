@@ -1,6 +1,6 @@
 # Hello 👋, I'm Nyein Chan Aung!
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+![Profile views](https://gpvc.arturio.dev/NyeinChanAungNCA)
 
 ## About Me
 - 🌱 I’m currently learning ...
