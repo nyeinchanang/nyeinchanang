@@ -1,7 +1,7 @@
 # Hello 👋, I'm Nyein Chan Aung!
 
 ## About Me
-- I'm a Project Manager and Senior Full-stack Software Engineer. I Love coding.
+- I'm a Full-stack Software Engineer. I Love coding.
 - Passionate about building scalable software solutions.
 - 📫 How to reach me: [nyeinchanaung.nk@gmail.com](mailto:nyeinchanaung.nk@gmail.com)
 
